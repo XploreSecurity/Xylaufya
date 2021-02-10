@@ -1,0 +1,19 @@
+#UwU
+def UwU():
+#UwU
+	print("https://xploresecurity.github.io/")
+	print("XploreSecurity")
+	print("Hacking, Securing and Developing")
+	print('''
+		"Only A Small Community Of Coffee Lovers, IT Activists"
+		''')
+	print("Coded by https://xploresecurity.github.io/")
+	print("Copyright XploreSecurity")
+	print("")
+	print("XploreSecurity - Web Scraping")
+	print("")
+UwU()
+from googlesearch import search
+query = str(input("Keyword: "))
+for URL in search(query=query):
+  print(URL)
