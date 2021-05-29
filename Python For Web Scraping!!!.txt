@@ -3,7 +3,7 @@ def UwU():
 #UwU
 	print("https://xploresecurity.github.io/")
 	print("XploreSecurity")
-	print("Hacking, Securing and Developing")
+	print("Let's Play In Hacking, Security & Development")
 	print('''
 		"Only A Small Community Of Coffee Lovers, IT Activists"
 		''')
